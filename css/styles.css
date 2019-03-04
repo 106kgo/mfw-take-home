@@ -1,0 +1,43 @@
+body{
+    background-color: yellow;
+    padding: 15px 10px;
+}
+
+#header{
+    background-color: blue;
+    height: 150px;
+    border: thin solid black;
+}
+
+#nav-bar{
+    background-color: green;
+    height: 50px;
+    border: thin solid black;
+}
+
+#content{
+    background-color: red;
+    height: 200px;
+    border: thin solid black;
+}
+
+#aside{
+    background-color: cyan;
+    height: 200px;
+    border: thin solid black;
+}
+
+#promo{
+    background-color: orange;
+    height: 150px;
+    border: thin solid black;
+}
+
+#footer{
+    background-color: black;
+    height: 50px;
+}
+
+p{
+    font-weight:bold;
+} 
