@@ -3,41 +3,41 @@ body{
     padding: 15px 10px;
 }
 
-#header{
+header{
     background-color: blue;
     height: 150px;
-    border: thin solid black;
 }
 
-#nav-bar{
+nav{
     background-color: green;
     height: 50px;
-    border: thin solid black;
 }
 
-#content{
+section{
     background-color: red;
     height: 200px;
-    border: thin solid black;
 }
 
-#aside{
+aside{
     background-color: cyan;
     height: 200px;
-    border: thin solid black;
 }
 
-#promo{
+.promo{
     background-color: orange;
     height: 150px;
-    border: thin solid black;
 }
 
-#footer{
+footer{
     background-color: black;
+    color: white;
     height: 50px;
 }
 
 p{
     font-weight:bold;
 } 
+
+.border{
+    border: 2px solid black;
+}
